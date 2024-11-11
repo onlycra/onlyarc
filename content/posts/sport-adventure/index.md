@@ -9,6 +9,6 @@ footnotes = " Pictures: https://media.meintophotel.de/uploads/2023/04/Adventure-
 +++
 # **The best flaschen**
 
-![](51jsemuobul._ac_sl1500_.jpg "Stanley Cup ")
+![](51jsemuobul._ac_sl1500_-1-.jpg "Stanley Cup ")
 
 <https://amzn.to/4frPmN1>
