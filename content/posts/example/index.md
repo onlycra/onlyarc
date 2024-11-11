@@ -1,9 +1,9 @@
 +++
-title = "Example Post"
+title = "Sport & Adventure"
 date = "2023-01-01"
 draft = false
 pinned = false
-tags = ["Lilo", "Example"]
+tags = []
 image = "51jsemuobul._ac_sl1500_.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
