@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = []
 image = "51jsemuobul._ac_sl1500_.jpg"
-description = "Gear Up for Adventure!\nDiscover top-rated sports and outdoor gear designed for every adventure. From durable camping essentials to high-performance fitness equipment, find everything you need!"
+description = "Gear Up for Adventure! Discover top-rated sports and outdoor gear designed for every adventure. From durable camping essentials to high-performance fitness equipment, find everything you need!\n"
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
