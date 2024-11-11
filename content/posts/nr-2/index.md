@@ -1,5 +1,5 @@
 +++
-title = "Christmas and Winter "
+title = "Christmas & Winter "
 date = "2024-11-10"
 draft = false
 pinned = false
