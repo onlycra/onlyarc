@@ -22,7 +22,7 @@ description = "Find the coolest Amazon products all in one place! Shop unique ga
 
 **Custom plaque:** <https://amzn.to/4elg7kU>
 
-![]()
+![](614wnm2lpll._ac_uf894-1000_ql80_.jpeg)
 
 **LED Skyline**: [https://amzn.to/4fJfum](https://amzn.to/4fJfumh)
 
