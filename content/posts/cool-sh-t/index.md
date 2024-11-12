@@ -3,6 +3,7 @@ title = "Cool Sh*t Part 1"
 date = "2024-11-11"
 draft = false
 pinned = false
+image = "anime-bedroom-background-ga82xsngkt846ihv.jpg"
 +++
 Cool shit I found on Amazon
 
