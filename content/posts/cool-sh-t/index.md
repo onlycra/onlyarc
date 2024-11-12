@@ -8,9 +8,15 @@ Cool shit I found on Amazon
 
 Fidget Pen: <https://amzn.to/3Z0XYUW>
 
+![](710o-cvvq3l.__ac_sy445_sx342_ql70_ml2_.jpg)
+
 Wireless Charging: <https://amzn.to/3O5Aqbq>
 
+![](61mkmy3mkpl.__ac_sx300_sy300_ql70_ml2_.jpg)
+
 NIghtstand: <https://amzn.to/4hJCaVi>
+
+![]()
 
 Custom plaque: <https://amzn.to/4elg7kU>
 
