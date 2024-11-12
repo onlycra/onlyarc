@@ -9,11 +9,11 @@ Cool shit I found on Amazon
 
 Fidget Pen: <https://amzn.to/3Z0XYUW>
 
-![](710o-cvvq3l.__ac_sy445_sx342_ql70_ml2_.jpg)
+![](710o-cvvq3l._ac_sx679_.jpg)
 
 Wireless Charging: <https://amzn.to/3O5Aqbq>
 
-![](61mkmy3mkpl.__ac_sx300_sy300_ql70_ml2_.jpg)
+![](61mkmy3mkpl._ac_sx679_.jpg)
 
 NIghtstand: <https://amzn.to/4hJCaVi>
 
@@ -26,5 +26,7 @@ LED Skyline: [https://amzn.to/4fJfum](https://amzn.to/4fJfumh)
 ![](2e595ad10d2a6b74503dc6d2b6753152275a0af0_original.jpeg)
 
 Anti gravity humidifier: <https://amzn.to/4epSvf1>
+
+![](51ts9d9ef2l._ac_sx679_.jpg)
 
 Mini Projector: <https://amzn.to/4eqrqZ2>
