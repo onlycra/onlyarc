@@ -16,6 +16,8 @@ Custom plaque: <https://amzn.to/4elg7kU>
 
 LED Skyline: [https://amzn.to/4fJfum](https://amzn.to/4fJfumh)
 
+![](2e595ad10d2a6b74503dc6d2b6753152275a0af0_original.jpeg)
+
 Anti gravity humidifier: <https://amzn.to/4epSvf1>
 
 Mini Projector: <https://amzn.to/4eqrqZ2>
