@@ -16,6 +16,6 @@ custom plaque: <https://amzn.to/4elg7kU>
 
 LED Skyline: <https://amzn.to/4fJfumh>
 
-Fidget Dicel: <https://amzn.to/3CnH4ah>
+Fidget Dice: <https://amzn.to/3CnH4ah>
 
 Mini Projector: <https://amzn.to/4eqrqZ2>
