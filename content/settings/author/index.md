@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "OnlyArc ©"
-image = "/img/default-author.jpg"
+image = "/media/bildschirmfoto-2024-11-11-um-16.40.46.png"
 url = "/about/"
 +++
