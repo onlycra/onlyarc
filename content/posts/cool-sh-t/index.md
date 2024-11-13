@@ -2,7 +2,7 @@
 title = "Cool Sh*t Part 1"
 date = "2024-11-11"
 draft = false
-pinned = false
+pinned = true
 image = "anime-bedroom-background-ga82xsngkt846ihv.jpg"
 description = "Find the coolest Amazon products all in one place! Shop unique gadgets, stylish decor, and must-have items with quick links to Amazon for easy checkout."
 +++
