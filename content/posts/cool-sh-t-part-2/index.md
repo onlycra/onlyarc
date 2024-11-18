@@ -28,7 +28,7 @@ description = "Find the coolest Amazon products all in one place! Shop unique ga
 
 ![](61t4xcdl37l._ac_uf894-1000_ql80_.jpg)
 
-**UNO Rug:** <https://amzn.to/3OeUh8c>
+**UNO Rug:** [](https://amzn.to/3OeUh8c)<https://amzn.to/3OzYTWJ>
 
 ![](71tsqqtyo2l.jpg)
 
