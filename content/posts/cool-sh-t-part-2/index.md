@@ -23,3 +23,5 @@ description = "Find the coolest Amazon products all in one place! Shop unique ga
 ##### Levitating Lamp: <https://amzn.to/3OfMJlx>
 
 ![]()
+
+**Infinity LED mirror:** <https://amzn.to/3OeUh8c>
