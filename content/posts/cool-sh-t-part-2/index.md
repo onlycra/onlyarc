@@ -7,8 +7,10 @@ image = "night-room-vector-interior-with-study-workplace-furniture-cartoon-illus
 +++
 # Cool things I found on amazon!
 
-#### **Money Box with Electronic Coin Counter:** <https://amzn.to/3Zn50Ux>
+##### **Money Box with Electronic Coin Counter:** <https://amzn.to/3Zn50Ux>
 
-###### LED Starry Sky Projector Astronaut: <https://amzn.to/3ZdR0vS>
+##### LED Starry Sky Projector Astronaut: <https://amzn.to/3ZdR0vS>
 
-###### **Cloud Ceiling:** <https://amzn.to/4fUugGO>
+##### **Cloud Ceiling:** <https://amzn.to/4fUugGO>
+
+##### Levitating Lamp: <https://amzn.to/3OfMJlx>
