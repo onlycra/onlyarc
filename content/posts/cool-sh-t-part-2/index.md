@@ -6,3 +6,9 @@ pinned = true
 image = "night-room-vector-interior-with-study-workplace-furniture-cartoon-illustration-boy-teen-computer-desk-setup-with-monitor-armchair-schooler-gamer-workstation-equipment-near-goblet-shelf_107791-21328.avif"
 +++
 # Cool things I found on amazon!
+
+#### **Money Box with Electronic Coin Counter:** <https://amzn.to/3Zn50Ux>
+
+###### LED Starry Sky Projector Astronaut: <https://amzn.to/3ZdR0vS>
+
+###### **Cloud Ceiling:** <https://amzn.to/4fUugGO>
