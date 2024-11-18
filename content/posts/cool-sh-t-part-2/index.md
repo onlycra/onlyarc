@@ -10,18 +10,18 @@ description = "Find the coolest Amazon products all in one place! Shop unique ga
 
 ##### **Money Box with Electronic Coin Counter:** <https://amzn.to/3Zn50Ux>
 
-![]()
+![](71cum-iffl._ac_sx679_.jpg)
 
 ##### LED Starry Sky Projector Astronaut: <https://amzn.to/3ZdR0vS>
 
-![]()
+![](astronaut-projektor-fitshape-1.jpg)
 
 ##### **Cloud Ceiling:** <https://amzn.to/4fUugGO>
 
-![]()
+![](61ler2tcp6l._ac_sx679_.jpg)
 
 ##### Levitating Lamp: <https://amzn.to/3OfMJlx>
 
-![]()
+![](download.jpg)
 
 **Infinity LED mirror:** <https://amzn.to/3OeUh8c>
