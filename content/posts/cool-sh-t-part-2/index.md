@@ -34,8 +34,8 @@ description = "Find the coolest Amazon products all in one place! Shop unique ga
 
 **Infinity LED mirror:** <https://amzn.to/3OeUh8c>
 
-![](71tsqqtyo2l.jpg)
+![](61t4xcdl37l._ac_uf894-1000_ql80_.jpg)
 
 **UNO rug:** <https://amzn.to/3OeUh8c>
 
-![](61t4xcdl37l._ac_uf894-1000_ql80_.jpg)
+![](71tsqqtyo2l.jpg)
