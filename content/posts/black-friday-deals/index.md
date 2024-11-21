@@ -23,3 +23,7 @@ description = "The best black friday deals on amazon!"
 **Raitown Watch:** <https://amzn.to/4eI9F7V>
 
 ![]()
+
+**Rain-Cloud Humidifier:** <https://amzn.to/3CFeOjA>
+
+**Flame Humidifier:** <https://amzn.to/4hWPINk>
