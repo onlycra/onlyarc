@@ -4,7 +4,7 @@ date = "2024-11-21"
 draft = false
 pinned = false
 image = "a058da116d9dc6f08c154417e935bca4.gif"
-description = "The best black friday deals on amazon!"
+description = "THE BEST BLACK FRIDAY DEALS ON AMAZON!!!"
 +++
 # Black Friday deals!
 
