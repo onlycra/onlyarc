@@ -24,7 +24,7 @@ description = "THE BEST BLACK FRIDAY DEALS ON AMAZON!!!"
 
 ![](71i8m2wt-ks._ac_sx679_.jpg)
 
-**Rain-Cloud Humidifier:** <https://amzn.to/3CFeOjA>
+**Rain-Cloud Humidifier:** <https://amzn.to/4g0xEAf>
 
 ![]()
 
