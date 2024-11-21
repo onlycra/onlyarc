@@ -13,3 +13,13 @@ description = "The best black friday deals on amazon!"
 ![]()
 
 **Racing Wheel:** <https://amzn.to/3CFeOjA>
+
+![]()
+
+**Moon Lamp:** <https://amzn.to/3CQ6ayE>
+
+![]()
+
+**Raitown Watch:** <https://amzn.to/4eI9F7V>
+
+![]()
