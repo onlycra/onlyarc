@@ -8,8 +8,8 @@ description = "The best black friday deals on amazon!"
 +++
 # Black Friday deals!
 
-LED Bathroom mirror: <https://amzn.to/3ZdrdEd>
+**LED Bathroom Mirror:** <https://amzn.to/3ZdrdEd>
 
 ![]()
 
-[](https://amzn.to/3ZdrdEd)
+**Racing Wheel:** <https://amzn.to/3CFeOjA>
