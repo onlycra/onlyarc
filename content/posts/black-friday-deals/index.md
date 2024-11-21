@@ -2,7 +2,7 @@
 title = "Black Friday deals"
 date = "2024-11-21"
 draft = false
-pinned = false
+pinned = true
 image = "a058da116d9dc6f08c154417e935bca4.gif"
 description = "THE BEST BLACK FRIDAY DEALS ON AMAZON!!!"
 +++
